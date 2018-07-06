@@ -1,11 +1,11 @@
 schema_version: "1.0.0"
-name: FedRAMP Certifications
+name: Certifications
 metadata:
   description: "Certifications in OpenControl format."
   maintainers:
-    - Shawn Wells (shawn@redhat.com)
-    - Mark Shoger (mshoger@redhat.com)
+    - Robert Kerr (rskerr@haystax.com)
 certifications:
+  - ./48cfr-52.504-21.yaml
   - ./dhs-4300a.yaml
   - ./icd-503-low.yaml
   - ./icd-503-moderate.yaml
