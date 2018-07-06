@@ -5,7 +5,7 @@ metadata:
   maintainers:
     - Robert Kerr (rskerr@haystax.com)
 certifications:
-  - ./48cfr-52.504-21.yaml
+  - ./48cfr-52.204-21.yaml
   - ./dhs-4300a.yaml
   - ./icd-503-low.yaml
   - ./icd-503-moderate.yaml
